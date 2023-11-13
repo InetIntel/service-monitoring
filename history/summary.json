@@ -4,19 +4,19 @@
     "url": "https://ioda.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 254,
-    "timeWeek": 309,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 374,
+    "timeDay": 302,
+    "timeWeek": 319,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-11-13": 0
+      "2023-11-13": 12
     }
   },
   {
