@@ -4,18 +4,20 @@
     "url": "https://ioda.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 388,
-    "timeWeek": 336,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {}
+    "time": 373,
+    "timeDay": 254,
+    "timeWeek": 309,
+    "timeMonth": 373,
+    "timeYear": 373,
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "GRIP website",
