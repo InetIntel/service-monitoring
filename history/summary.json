@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 326,
-    "timeDay": 105,
-    "timeWeek": 287,
-    "timeMonth": 288,
-    "timeYear": 326,
+    "time": 325,
+    "timeDay": 205,
+    "timeWeek": 270,
+    "timeMonth": 283,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2023-11-19": 30,
       "2023-11-13": 12
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 330,
-    "timeDay": 246,
-    "timeWeek": 248,
-    "timeMonth": 402,
-    "timeYear": 330,
+    "uptimeYear": "99.97%",
+    "time": 326,
+    "timeDay": 98,
+    "timeWeek": 200,
+    "timeMonth": 394,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2023-11-19": 21,
       "2023-10-20": 9
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 608,
-    "timeDay": 4371,
-    "timeWeek": 1017,
-    "timeMonth": 700,
-    "timeYear": 608,
+    "time": 601,
+    "timeDay": 196,
+    "timeWeek": 966,
+    "timeMonth": 685,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2023-11-19": 19,
       "2023-10-27": 9,
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1307,
-    "timeDay": 814,
-    "timeWeek": 964,
-    "timeMonth": 1154,
-    "timeYear": 1307,
+    "time": 1301,
+    "timeDay": 901,
+    "timeWeek": 997,
+    "timeMonth": 1156,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2023-11-19": 19
     }
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 57,
+    "time": 56,
     "timeDay": 30,
-    "timeWeek": 53,
-    "timeMonth": 58,
-    "timeYear": 57,
+    "timeWeek": 46,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {
       "2023-11-19": 17
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1025,
-    "timeDay": 5178,
-    "timeWeek": 1291,
-    "timeMonth": 1041,
-    "timeYear": 1025,
+    "time": 1018,
+    "timeDay": 586,
+    "timeWeek": 1279,
+    "timeMonth": 1039,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2023-11-19": 17
     }
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 982,
-    "timeDay": 218,
-    "timeWeek": 345,
-    "timeMonth": 1295,
-    "timeYear": 982,
+    "time": 970,
+    "timeDay": 259,
+    "timeWeek": 317,
+    "timeMonth": 1169,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2023-11-19": 15
     }
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 900,
-    "timeDay": 161,
-    "timeWeek": 334,
-    "timeMonth": 521,
-    "timeYear": 900,
+    "time": 888,
+    "timeDay": 143,
+    "timeWeek": 282,
+    "timeMonth": 507,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2023-11-19": 15
     }
