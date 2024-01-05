@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 327,
-    "timeDay": 124,
-    "timeWeek": 300,
+    "time": 328,
+    "timeDay": 386,
+    "timeWeek": 337,
     "timeMonth": 325,
-    "timeYear": 327,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2023-11-19": 30,
       "2023-11-13": 12
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 320,
-    "timeDay": 109,
-    "timeWeek": 255,
+    "timeDay": 379,
+    "timeWeek": 293,
     "timeMonth": 283,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 617,
-    "timeDay": 218,
-    "timeWeek": 476,
+    "timeDay": 613,
+    "timeWeek": 534,
     "timeMonth": 712,
     "timeYear": 617,
     "dailyMinutesDown": {
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1212,
-    "timeDay": 1306,
-    "timeWeek": 1001,
-    "timeMonth": 942,
-    "timeYear": 1212,
+    "time": 1218,
+    "timeDay": 1706,
+    "timeWeek": 1205,
+    "timeMonth": 971,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2023-11-19": 19
     }
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 58,
-    "timeDay": 34,
-    "timeWeek": 62,
+    "timeDay": 87,
+    "timeWeek": 69,
     "timeMonth": 62,
     "timeYear": 58,
     "dailyMinutesDown": {
@@ -109,16 +109,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/inetintel.cc.gatech.edu.ico",
     "slug": "inet-intel-lab-website",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 970,
-    "timeDay": 510,
-    "timeWeek": 1114,
-    "timeMonth": 885,
-    "timeYear": 970,
+    "uptimeYear": "99.99%",
+    "time": 965,
+    "timeDay": 542,
+    "timeWeek": 1092,
+    "timeMonth": 880,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2023-11-19": 17
     }
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 958,
-    "timeDay": 195,
-    "timeWeek": 1083,
-    "timeMonth": 952,
-    "timeYear": 958,
+    "time": 955,
+    "timeDay": 683,
+    "timeWeek": 1153,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2023-11-19": 15
     }
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 950,
-    "timeDay": 165,
-    "timeWeek": 1054,
-    "timeMonth": 837,
-    "timeYear": 950,
+    "time": 945,
+    "timeDay": 582,
+    "timeWeek": 1108,
+    "timeMonth": 836,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2023-11-19": 15
     }
