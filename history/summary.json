@@ -111,7 +111,7 @@
     "url": "https://api.grip.inetintel.cc.gatech.edu/json/events?length=10&start=0&ts_start=2023-05-01T00%3A00&ts_end=2023-05-02T00%3A00&event_type=submoas&full",
     "icon": "https://icons.duckduckgo.com/ip3/api.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
     "uptimeDay": "80.29%",
     "uptimeWeek": "97.18%",
@@ -123,6 +123,7 @@
     "timeMonth": 905,
     "timeYear": 1029,
     "dailyMinutesDown": {
+      "2024-08-11": 0,
       "2024-08-10": 284,
       "2024-07-28": 1232,
       "2024-07-27": 1440,
