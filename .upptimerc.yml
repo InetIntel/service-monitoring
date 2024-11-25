@@ -19,6 +19,8 @@ sites:
     url: https://explore.ioda.inetintel.cc.gatech.edu
   - name: GRIP grafana
     url: https://explore.grip.inetintel.cc.gatech.edu
+  - name: IODA reports
+    url: https://ioda.inetintel.cc.gatech.edu/reports/
 
 assignees:
  - salcock
