@@ -1,7 +1,7 @@
 url: https://explore.ioda.inetintel.cc.gatech.edu
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2025-06-08T23:05:25.833Z
+status: down
+code: 502
+responseTime: 412
+lastUpdated: 2025-06-09T21:28:50.753Z
 startTime: 2023-10-19T22:54:26.534Z
 generator: Upptime <https://github.com/upptime/upptime>
