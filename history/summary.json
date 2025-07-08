@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.04%",
     "time": 261,
-    "timeDay": 346,
-    "timeWeek": 310,
-    "timeMonth": 259,
+    "timeDay": 343,
+    "timeWeek": 274,
+    "timeMonth": 255,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-06-22": 43,
@@ -35,8 +35,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 720,
       "2024-07-25": 140,
-      "2024-07-12": 12,
-      "2024-07-08": 16
+      "2024-07-12": 12
     }
   },
   {
@@ -45,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-website",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.14%",
     "time": 275,
-    "timeDay": 336,
-    "timeWeek": 250,
-    "timeMonth": 233,
+    "timeDay": 337,
+    "timeWeek": 251,
+    "timeMonth": 227,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-06-22": 41,
@@ -77,8 +76,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 718,
-      "2024-07-25": 139,
-      "2024-07-08": 8
+      "2024-07-25": 139
     }
   },
   {
@@ -93,10 +91,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.05%",
     "time": 464,
-    "timeDay": 640,
+    "timeDay": 638,
     "timeWeek": 475,
-    "timeMonth": 449,
-    "timeYear": 456,
+    "timeMonth": 439,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-06-22": 28,
       "2025-04-30": 23,
@@ -117,8 +115,7 @@
       "2024-07-26": 716,
       "2024-07-25": 131,
       "2024-07-12": 20,
-      "2024-07-09": 18,
-      "2024-07-08": 8
+      "2024-07-09": 18
     }
   },
   {
@@ -132,10 +129,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.33%",
-    "time": 891,
-    "timeDay": 872,
-    "timeWeek": 896,
-    "timeMonth": 696,
+    "time": 893,
+    "timeDay": 1846,
+    "timeWeek": 1038,
+    "timeMonth": 728,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2025-06-22": 27,
@@ -152,8 +149,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 715,
       "2024-07-25": 131,
-      "2024-07-09": 9,
-      "2024-07-08": 7
+      "2024-07-09": 9
     }
   },
   {
@@ -162,13 +158,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-api-blocklist",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.46%",
     "time": 51,
-    "timeDay": 87,
+    "timeDay": 88,
     "timeWeek": 65,
     "timeMonth": 60,
     "timeYear": 51,
@@ -200,9 +196,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.56%",
     "time": 609,
-    "timeDay": 632,
-    "timeWeek": 625,
-    "timeMonth": 598,
+    "timeDay": 620,
+    "timeWeek": 611,
+    "timeMonth": 594,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2025-06-22": 26,
@@ -216,8 +212,7 @@
       "2024-10-11": 142,
       "2024-07-27": 231,
       "2024-07-26": 38,
-      "2024-07-25": 130,
-      "2024-07-08": 15
+      "2024-07-25": 130
     }
   },
   {
@@ -226,14 +221,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/explore.ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-grafana",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.11%",
     "time": 398,
-    "timeDay": 692,
-    "timeWeek": 478,
+    "timeDay": 624,
+    "timeWeek": 466,
     "timeMonth": 502,
     "timeYear": 415,
     "dailyMinutesDown": {
@@ -267,11 +262,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.64%",
-    "time": 366,
-    "timeDay": 708,
-    "timeWeek": 507,
-    "timeMonth": 425,
-    "timeYear": 376,
+    "time": 367,
+    "timeDay": 620,
+    "timeWeek": 494,
+    "timeMonth": 426,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-06-22": 19,
       "2025-04-30": 9,
@@ -299,9 +294,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 272,
-    "timeDay": 422,
-    "timeWeek": 333,
-    "timeMonth": 293,
+    "timeDay": 411,
+    "timeWeek": 328,
+    "timeMonth": 294,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-06-22": 18,
