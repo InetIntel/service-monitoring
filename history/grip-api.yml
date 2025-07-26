@@ -1,7 +1,7 @@
 url: https://api.grip.inetintel.cc.gatech.edu/json/events?length=10&start=0&ts_start=2023-05-01T00%3A00&ts_end=2023-05-02T00%3A00&event_type=submoas&full
 status: up
 code: 200
-responseTime: 952
-lastUpdated: 2025-07-25T23:06:07.267Z
+responseTime: 1719
+lastUpdated: 2025-07-26T23:05:41.443Z
 startTime: 2023-10-19T22:54:20.752Z
 generator: Upptime <https://github.com/upptime/upptime>
