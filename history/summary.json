@@ -11,10 +11,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.65%",
     "time": 288,
-    "timeDay": 150,
-    "timeWeek": 692,
-    "timeMonth": 328,
-    "timeYear": 300,
+    "timeDay": 157,
+    "timeWeek": 694,
+    "timeMonth": 329,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-11-03": 42,
       "2025-08-25": 9,
@@ -30,8 +30,7 @@
       "2025-01-24": 10,
       "2024-11-24": 12,
       "2024-11-21": 1027,
-      "2024-11-20": 486,
-      "2024-11-09": 156
+      "2024-11-20": 486
     }
   },
   {
@@ -41,15 +40,15 @@
     "slug": "grip-website",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.87%",
     "time": 276,
-    "timeDay": 144,
-    "timeWeek": 276,
+    "timeDay": 145,
+    "timeWeek": 278,
     "timeMonth": 243,
-    "timeYear": 260,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-11-07": 12,
       "2025-09-28": 10,
@@ -62,8 +61,7 @@
       "2025-02-27": 28,
       "2025-01-27": 92,
       "2025-01-24": 26,
-      "2024-11-24": 11,
-      "2024-11-09": 432
+      "2024-11-24": 11
     }
   },
   {
@@ -77,11 +75,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.62%",
-    "time": 453,
-    "timeDay": 316,
-    "timeWeek": 949,
-    "timeMonth": 527,
-    "timeYear": 428,
+    "time": 452,
+    "timeDay": 323,
+    "timeWeek": 958,
+    "timeMonth": 529,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2025-11-03": 41,
       "2025-09-30": 127,
@@ -96,8 +94,7 @@
       "2025-01-25": 1408,
       "2024-11-22": 824,
       "2024-11-21": 1440,
-      "2024-11-20": 485,
-      "2024-11-09": 95
+      "2024-11-20": 485
     }
   },
   {
@@ -106,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-api",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 897,
-    "timeDay": 543,
-    "timeWeek": 665,
-    "timeMonth": 669,
-    "timeYear": 913,
+    "timeDay": 451,
+    "timeWeek": 664,
+    "timeMonth": 665,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2025-08-28": 12,
       "2025-06-22": 27,
@@ -123,8 +120,7 @@
       "2025-01-27": 974,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 91,
-      "2024-11-09": 389
+      "2025-01-24": 91
     }
   },
   {
@@ -150,8 +146,7 @@
       "2025-01-27": 988,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 89,
-      "2024-11-09": 388
+      "2025-01-24": 89
     }
   },
   {
@@ -160,16 +155,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/inetintel.cc.gatech.edu.ico",
     "slug": "inet-intel-lab-website",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 645,
-    "timeDay": 638,
-    "timeWeek": 545,
-    "timeMonth": 546,
-    "timeYear": 696,
+    "timeDay": 503,
+    "timeWeek": 570,
+    "timeMonth": 551,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-06-22": 26,
       "2025-05-17": 9,
@@ -177,8 +172,7 @@
       "2025-02-14": 77,
       "2025-02-10": 9,
       "2024-11-21": 1028,
-      "2024-11-20": 485,
-      "2024-11-09": 93
+      "2024-11-20": 485
     }
   },
   {
@@ -193,10 +187,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
     "time": 410,
-    "timeDay": 282,
-    "timeWeek": 432,
-    "timeMonth": 371,
-    "timeYear": 398,
+    "timeDay": 280,
+    "timeWeek": 438,
+    "timeMonth": 373,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-08-25": 7,
       "2025-06-22": 19,
@@ -208,8 +202,7 @@
       "2025-01-25": 1403,
       "2024-11-22": 824,
       "2024-11-21": 1440,
-      "2024-11-20": 495,
-      "2024-11-09": 93
+      "2024-11-20": 495
     }
   },
   {
@@ -218,16 +211,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/explore.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-grafana",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 378,
-    "timeDay": 274,
-    "timeWeek": 442,
-    "timeMonth": 369,
-    "timeYear": 388,
+    "timeDay": 250,
+    "timeWeek": 386,
+    "timeMonth": 370,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-08-25": 7,
       "2025-06-22": 19,
@@ -235,8 +228,7 @@
       "2025-01-27": 974,
       "2025-01-26": 1440,
       "2025-01-25": 1401,
-      "2024-12-13": 13,
-      "2024-11-09": 92
+      "2024-12-13": 13
     }
   },
   {
@@ -251,8 +243,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 272,
-    "timeDay": 221,
-    "timeWeek": 295,
+    "timeDay": 213,
+    "timeWeek": 297,
     "timeMonth": 264,
     "timeYear": 272,
     "dailyMinutesDown": {
