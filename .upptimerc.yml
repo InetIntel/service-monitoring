@@ -21,6 +21,8 @@ sites:
     url: https://explore.grip.inetintel.cc.gatech.edu
   - name: IODA reports
     url: https://ioda.inetintel.cc.gatech.edu/reports/
+  - name: InetIntel monitoring grafana
+    url: https://monitor.inetintel.cc.gatech.edu
 
 assignees:
  - salcock
