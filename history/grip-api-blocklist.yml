@@ -1,7 +1,7 @@
 url: https://api.grip.inetintel.cc.gatech.edu/json/blocklist
-status: down
-code: 404
-responseTime: 57
-lastUpdated: 2026-02-23T23:44:55.550Z
+status: up
+code: 200
+responseTime: 44
+lastUpdated: 2026-02-23T23:57:46.499Z
 startTime: 2023-10-19T22:54:21.563Z
 generator: Upptime <https://github.com/upptime/upptime>
