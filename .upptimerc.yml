@@ -23,6 +23,8 @@ sites:
     url: https://ioda.inetintel.cc.gatech.edu/reports/
   - name: InetIntel monitoring grafana
     url: https://monitor.inetintel.cc.gatech.edu
+  - name: BGPFinder API
+    url: https://bgpfinder.inetintel.cc.gatech.edu/meta/collectors
 
 assignees:
  - salcock
