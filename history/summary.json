@@ -147,10 +147,10 @@
     "slug": "inet-intel-lab-website",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.97%",
     "time": 560,
     "timeDay": 761,
     "timeWeek": 483,
@@ -161,7 +161,8 @@
       "2026-07-19": 25,
       "2026-07-21": 26,
       "2026-07-22": 26,
-      "2026-08-05": 0
+      "2026-08-06": 28,
+      "2026-08-05": 3
     }
   },
   {
