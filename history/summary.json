@@ -4,12 +4,12 @@
     "url": "https://ioda.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.92%",
     "time": 336,
     "timeDay": 100,
     "timeWeek": 237,
@@ -25,7 +25,8 @@
       "2026-07-19": 50,
       "2026-07-21": 50,
       "2026-07-22": 50,
-      "2026-08-10": 50
+      "2026-08-10": 50,
+      "2026-08-13": 49
     }
   },
   {
@@ -33,12 +34,12 @@
     "url": "https://grip.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "98.27%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.26%",
     "time": 336,
     "timeDay": 262,
     "timeWeek": 381,
@@ -60,7 +61,8 @@
       "2026-07-19": 45,
       "2026-07-21": 45,
       "2026-07-22": 45,
-      "2026-08-10": 45
+      "2026-08-10": 45,
+      "2026-08-13": 44
     }
   },
   {
@@ -68,11 +70,11 @@
     "url": "https://api.ioda.inetintel.cc.gatech.edu/v2/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.87%",
     "time": 491,
     "timeDay": 339,
@@ -90,7 +92,8 @@
       "2026-07-19": 40,
       "2026-07-21": 40,
       "2026-07-22": 40,
-      "2026-08-10": 40
+      "2026-08-10": 40,
+      "2026-08-13": 39
     }
   },
   {
@@ -98,12 +101,12 @@
     "url": "https://api.grip.inetintel.cc.gatech.edu/json/events?length=10&start=0&ts_start=2023-05-01T00%3A00&ts_end=2023-05-02T00%3A00&event_type=submoas&full",
     "icon": "https://icons.duckduckgo.com/ip3/api.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-api",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.94%",
     "time": 890,
     "timeDay": 601,
     "timeWeek": 940,
@@ -117,7 +120,8 @@
       "2026-07-19": 35,
       "2026-07-21": 35,
       "2026-07-22": 35,
-      "2026-08-10": 35
+      "2026-08-10": 35,
+      "2026-08-13": 34
     }
   },
   {
@@ -125,12 +129,12 @@
     "url": "https://api.grip.inetintel.cc.gatech.edu/json/blocklist",
     "icon": "https://icons.duckduckgo.com/ip3/api.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-api-blocklist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.96%",
     "time": 135,
     "timeDay": 148,
     "timeWeek": 343,
@@ -142,7 +146,8 @@
       "2026-07-19": 30,
       "2026-07-21": 31,
       "2026-07-22": 30,
-      "2026-08-10": 30
+      "2026-08-10": 30,
+      "2026-08-13": 30
     }
   },
   {
@@ -150,15 +155,15 @@
     "url": "https://inetintel.cc.gatech.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/inetintel.cc.gatech.edu.ico",
     "slug": "inet-intel-lab-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.96%",
     "time": 560,
     "timeDay": 332,
-    "timeWeek": 651,
+    "timeWeek": 686,
     "timeMonth": 542,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -168,7 +173,8 @@
       "2026-07-22": 26,
       "2026-08-06": 44,
       "2026-08-05": 3,
-      "2026-08-10": 26
+      "2026-08-10": 26,
+      "2026-08-13": 25
     }
   },
   {
@@ -176,13 +182,13 @@
     "url": "https://explore.ioda.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/explore.ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-grafana",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.98%",
-    "time": 505,
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.97%",
+    "time": 506,
     "timeDay": 436,
     "timeWeek": 485,
     "timeMonth": 1140,
@@ -194,7 +200,8 @@
       "2026-07-19": 21,
       "2026-07-21": 21,
       "2026-07-22": 21,
-      "2026-08-10": 21
+      "2026-08-10": 21,
+      "2026-08-13": 20
     }
   },
   {
@@ -202,13 +209,13 @@
     "url": "https://explore.grip.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/explore.grip.inetintel.cc.gatech.edu.ico",
     "slug": "grip-grafana",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.85%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 470,
+    "time": 469,
     "timeDay": 416,
     "timeWeek": 526,
     "timeMonth": 1096,
@@ -220,7 +227,8 @@
       "2026-07-19": 16,
       "2026-07-21": 16,
       "2026-07-22": 16,
-      "2026-08-10": 16
+      "2026-08-10": 16,
+      "2026-08-13": 15
     }
   },
   {
@@ -228,13 +236,13 @@
     "url": "https://ioda.inetintel.cc.gatech.edu/reports/",
     "icon": "https://icons.duckduckgo.com/ip3/ioda.inetintel.cc.gatech.edu.ico",
     "slug": "ioda-reports",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
-    "time": 292,
+    "time": 293,
     "timeDay": 166,
     "timeWeek": 273,
     "timeMonth": 311,
@@ -247,7 +255,8 @@
       "2026-07-19": 11,
       "2026-07-21": 11,
       "2026-07-22": 11,
-      "2026-08-10": 11
+      "2026-08-10": 11,
+      "2026-08-13": 10
     }
   },
   {
@@ -255,11 +264,11 @@
     "url": "https://monitor.inetintel.cc.gatech.edu",
     "icon": "https://icons.duckduckgo.com/ip3/monitor.inetintel.cc.gatech.edu.ico",
     "slug": "inet-intel-monitoring-grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 510,
     "timeDay": 235,
@@ -271,7 +280,8 @@
       "2026-07-19": 6,
       "2026-07-21": 6,
       "2026-07-22": 6,
-      "2026-08-10": 6
+      "2026-08-10": 6,
+      "2026-08-13": 5
     }
   },
   {
@@ -279,10 +289,10 @@
     "url": "https://bgpfinder.inetintel.cc.gatech.edu/meta/collectors",
     "icon": "https://icons.duckduckgo.com/ip3/bgpfinder.inetintel.cc.gatech.edu.ico",
     "slug": "bgp-finder-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 377,
@@ -295,7 +305,8 @@
       "2026-07-19": 1,
       "2026-07-21": 1,
       "2026-07-22": 1,
-      "2026-08-10": 1
+      "2026-08-10": 1,
+      "2026-08-13": 1
     }
   }
 ]
