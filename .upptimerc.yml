@@ -25,6 +25,8 @@ sites:
     url: https://monitor.inetintel.cc.gatech.edu
   - name: BGPFinder API
     url: https://bgpfinder.inetintel.cc.gatech.edu/meta/collectors
+  - name: Aggie
+    url: https://ioda.inetintel.cc.gatech.edu/aggie/
 
 assignees:
  - salcock
