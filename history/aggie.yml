@@ -1,7 +1,7 @@
 url: https://ioda.inetintel.cc.gatech.edu/aggie/
-status: up
-code: 200
-responseTime: 172
-lastUpdated: 2026-09-16T23:11:53.033Z
+status: down
+code: 502
+responseTime: 59
+lastUpdated: 2026-09-17T17:15:33.656Z
 startTime: 2026-09-04T02:19:15.471Z
 generator: Upptime <https://github.com/upptime/upptime>
