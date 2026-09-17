@@ -421,24 +421,24 @@
     "url": "https://ioda.inetintel.cc.gatech.edu/aggie/",
     "icon": "https://icons.duckduckgo.com/ip3/ioda.inetintel.cc.gatech.edu.ico",
     "slug": "aggie",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 204,
-    "timeDay": 116,
-    "timeWeek": 228,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 199,
+    "timeDay": 107,
+    "timeWeek": 216,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2026-09-04": 2,
       "2026-09-07": 2,
       "2026-09-09": 1,
       "2026-09-11": 8,
       "2026-09-14": 3,
-      "2026-09-17": 1
+      "2026-09-17": 11
     }
   }
 ]
